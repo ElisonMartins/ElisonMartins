@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, meu nome é Elison Martins, sou graduando do curso <strong>engenharia de software</strong> e desenvolvedor de <strong>Front-End</strong>. Atualmente tambem estou estudando de forma autodidata com foco principal na área de desenvolvimento web. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá, meu nome é Elison Martins, sou graduando do curso <strong>engenharia de software</strong> e desenvolvedor de <strong>Front-End</strong>. Atualmente tambem estou estudando de forma autodidata com foco principal na área de desenvolvimento web.
 </p>
 
 <p align="left">
