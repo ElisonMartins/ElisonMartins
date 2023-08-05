@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>HTML, CSS, JavaScript, React,js, Bootstrap, Python e Git.</strong>
+  💻 Habilidades: <strong>JavaScript, Typescript, ReactJs, NextJs, Tailwind, Bootstrap, Python.</strong>
 </p>
 
 <p align="left">
