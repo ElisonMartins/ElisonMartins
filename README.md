@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>JavaScript, Typescript, ReactJs, NextJs, Tailwind, Bootstrap, Python.</strong>
+  💻 Habilidades: <strong>JavaScript, Typescript, ReactJs, NextJs, Node.js, Tailwind, Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Vercel e GitHub.</strong>
+  💼 Ferramentas: <strong>Docker, Figma, Vercel, Git e AWS.</strong>
 </p>
 
 <p align="left">
